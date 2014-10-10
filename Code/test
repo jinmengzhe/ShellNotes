@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export2.dtd">
+<en-export export-date="20141010T062010Z" application="Evernote/Windows" version="5.x">
+<note><title>浏览历史服务部署情况</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+
+<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><ul><li>写缓存</li><li style="list-style: none; display: inline"><ul><li>测试环境：10.108.76.51</li><li>zwt：10.108.72.170、10.108.76.52</li><li>ccc：10.102.68.185、10.102.68.191---(待搬迁、ccc--&gt;bjsc)</li></ul></li><li>History服务</li><li style="list-style: none; display: inline"><ul><li>测试环境：10.108.72.169</li><li>zwt：10.108.87.96、10.108.72.132</li><li>bjsc：10.121.96.105、10.121.96.106</li></ul></li><li>ActiveMQ服务</li><li style="list-style: none; display: inline"><ul><li>zwt: 10.108.72.170</li><li>bjsc:10.121.96.106</li></ul></li></ul><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div></en-note>]]></content><created>20140709T082450Z</created><updated>20140709T083206Z</updated></note></en-export>
