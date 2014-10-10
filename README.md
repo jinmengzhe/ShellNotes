@@ -1,4 +1,4 @@
-ShellNotes
+Linux-Shell
 ==========
 
-平时积累的一些小脚本
+some notes 
