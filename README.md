@@ -1,4 +1,4 @@
 Linux-Shell
 ==========
 
-some notes 
+some notes about shell code and Linux command notes in daily work
